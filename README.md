@@ -11,14 +11,14 @@ As this is not publish files need to be installed manually. Unlike chrome, firef
 
 **Chrome:**
 
--Open the Extension Management page by navigating to chrome://extensions.
--The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
--Enable Developer Mode by clicking the toggle switch next to Developer mode.
--Click the LOAD UNPACKED button and select the extension directory.
+-Open the Extension Management page by navigating to chrome://extensions.<br />
+-The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.<br />
+-Enable Developer Mode by clicking the toggle switch next to Developer mode.<br />
+-Click the LOAD UNPACKED button and select the extension directory.<br />
 -Load Extension
 
 **Firefox:**
 
--Open the extensions management page by navigating to about:addons.
--Select the cog/settings menu on that page and select "Debug add-ons"
--Click "Load temporary add on" and select extension directory
+-Open the extensions management page by navigating to about:addons.<br />
+-Select the cog/settings menu on that page and select "Debug add-ons"<br />
+-Click "Load temporary add on" and select extension directory<br />
