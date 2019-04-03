@@ -5,7 +5,9 @@ The extension was built as part of my honours dissertation and this repository i
 
 ## Installation
 
-As this is not publish files need to be installed manually. Unlike chrome, firefox requires a temporary add on which deletes when the browser is installed as fully installed browsers need to be passed by Mozilla for signing. If you want to install or make any changes to the code how to install...
+As this is not publish files need to be installed manually. Unlike chrome, firefox requires a temporary add on which deletes when the browser is installed as fully installed browsers need to be passed by Mozilla for signing. If you want to install or make any changes to the code. 
+
+How to install...
 
 Chrome:
 
