@@ -7,9 +7,9 @@ The extension was built as part of my honours dissertation and this repository i
 
 As this is not publish files need to be installed manually. Unlike chrome, firefox requires a temporary add on which deletes when the browser is installed as fully installed browsers need to be passed by Mozilla for signing. If you want to install or make any changes to the code. 
 
-How to install...
+**How to install...**
 
-Chrome:
+**Chrome:**
 
 -Open the Extension Management page by navigating to chrome://extensions.
 -The Extension Management page can also be opened by clicking on the Chrome menu, hovering over More Tools then selecting Extensions.
@@ -17,7 +17,7 @@ Chrome:
 -Click the LOAD UNPACKED button and select the extension directory.
 -Load Extension
 
-Firefox:
+**Firefox:**
 
 -Open the extensions management page by navigating to about:addons.
 -Select the cog/settings menu on that page and select "Debug add-ons"
